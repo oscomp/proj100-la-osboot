@@ -1,4 +1,4 @@
-# projX-la-osboot
+# proj100-la-osboot
 
 ## 项目名称
 
